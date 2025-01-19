@@ -1,0 +1,3 @@
+# ignore all .xxx files
+*.csv
+.DS_Store
